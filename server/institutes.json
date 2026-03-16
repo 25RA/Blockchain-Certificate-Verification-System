@@ -1,0 +1,46 @@
+[
+  {
+    "instituteId": "00102",
+    "instituteName": "00102",
+    "passwordHash": "$2b$12$PIZODOjTrFNTYU9s.sxUs.p4b5OfIGroQ5eY6fjyU3KvBgNGBqMWS",
+    "credentialHash": "ef1ff964e332146eafef5393ffa310528750402f78a9a93a217b431d80b5c440",
+    "createdAt": "2025-10-23T15:56:22.518Z",
+    "isActive": true
+  },
+  {
+    "instituteId": "00104",
+    "instituteName": "00104",
+    "passwordHash": "$2b$12$9zRkoTv.qM80964L/Oa4R.noOzpDMs.OJqeQ5.nA3FqVUVihUghNi",
+    "blockchainTxHash": "0xa18638a9cdb80b2f97693d0138a6184a0e810c1f9c0d7de6890370b9a4c70b8d",
+    "walletAddress": "0xbf8d779294b28792c1fdb5169ce8a6cb3b8ed212",
+    "createdAt": "2025-11-02T22:55:27.094Z",
+    "isActive": true
+  },
+  {
+    "instituteId": "00105",
+    "instituteName": "IIIT Naya Raipur",
+    "passwordHash": "$2b$12$UeWFQSBryXcvpRzjsIS0DuXwdeGHUE.AvEnJChYgz8QK2OA848hhK",
+    "blockchainTxHash": "0x86de43b92225c05aec17d58aa914eb54a337feba7e2af5c518e36cc2b1eb3c05",
+    "walletAddress": "0xbf8d779294b28792c1fdb5169ce8a6cb3b8ed212",
+    "createdAt": "2025-11-03T22:42:04.497Z",
+    "isActive": true
+  },
+  {
+    "instituteId": "00106",
+    "instituteName": "IIIT Naya Raipur",
+    "passwordHash": "$2b$12$mK6HL9VMfEwkSztmn9MS7uY6Brmu29WG7IkS0oI1szMoC/rtemcDS",
+    "blockchainTxHash": "0x45dcbdac9db138643e9520b9e606dc9d6539f6dbc3871068de358cb4bbabd2df",
+    "walletAddress": "0xbf8d779294b28792c1fdb5169ce8a6cb3b8ed212",
+    "createdAt": "2025-11-04T17:45:28.563Z",
+    "isActive": true
+  },
+  {
+    "instituteId": "1111",
+    "instituteName": "lkjhygt",
+    "passwordHash": "$2b$12$IkFa7Q5Dg7L6ZZCCQM018u2oGuZPX7bRwkmloagR6QnsTjcNLB.Dy",
+    "blockchainTxHash": "0x0dbcdd6aa59cb59ae6665d4effd0e1deaa03bde0a2cb084903cad233f6cc9426",
+    "walletAddress": "0xbf8d779294b28792c1fdb5169ce8a6cb3b8ed212",
+    "createdAt": "2025-11-11T17:00:27.066Z",
+    "isActive": true
+  }
+]
